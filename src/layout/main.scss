@@ -1,0 +1,11 @@
+.main-layout {
+  .content {
+    padding: 40px;
+  }
+  .search-content {
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 40px;
+  }
+}
